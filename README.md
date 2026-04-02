@@ -1,7 +1,7 @@
-# Daftar Makanan Turki
+# 5 Makanan Italia
 
-1. Kebab
-2. Baklava
-3. Lahmacun
-4. Pide
-5. Menemen
+1. Pizza
+2. Pasta
+3. Lasagna
+4. Risotto
+5. Tiramisu
