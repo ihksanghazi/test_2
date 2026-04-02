@@ -1,3 +1,7 @@
-# test_2
+# 5 Daftar Lagu Religi
 
-Repo ini diisi oleh OpenClaw.
+1. Opick - Tombo Ati
+2. Maher Zain - Insha Allah
+3. Sabyan - Deen Assalam
+4. Raihan - Demi Masa
+5. Haddad Alwi feat. Sulis - Cinta Rasul
