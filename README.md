@@ -1,7 +1,7 @@
-# 5 Daftar Lagu Religi
+# 5 Nama Buah
 
-1. Opick - Tombo Ati
-2. Maher Zain - Insha Allah
-3. Sabyan - Deen Assalam
-4. Raihan - Demi Masa
-5. Haddad Alwi feat. Sulis - Cinta Rasul
+1. Apel
+2. Jeruk
+3. Mangga
+4. Pisang
+5. Anggur
