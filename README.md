@@ -1,7 +1,7 @@
-# 5 Nama Buah
+# Daftar Makanan Turki
 
-1. Apel
-2. Jeruk
-3. Mangga
-4. Pisang
-5. Anggur
+1. Kebab
+2. Baklava
+3. Lahmacun
+4. Pide
+5. Menemen
